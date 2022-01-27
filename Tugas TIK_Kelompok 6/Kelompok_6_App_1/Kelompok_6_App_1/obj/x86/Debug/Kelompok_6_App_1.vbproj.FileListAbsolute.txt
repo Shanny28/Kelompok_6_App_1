@@ -1,0 +1,11 @@
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\bin\Debug\Kelompok_6_App_1.exe
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\bin\Debug\Kelompok_6_App_1.pdb
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\bin\Debug\Kelompok_6_App_1.xml
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.Form1.resources
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.Form2.resources
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.Resources.resources
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.vbproj.GenerateResource.Cache
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.exe
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.xml
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.pdb
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Kelompok_6_App_1\obj\x86\Debug\Kelompok_6_App_1.Form3.resources

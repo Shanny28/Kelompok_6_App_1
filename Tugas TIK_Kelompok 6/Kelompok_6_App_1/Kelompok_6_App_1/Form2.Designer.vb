@@ -49,10 +49,10 @@ Partial Class Form2
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(146, 9)
+        Me.Label1.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(141, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(177, 28)
+        Me.Label1.Size = New System.Drawing.Size(183, 28)
         Me.Label1.TabIndex = 1
         Me.Label1.Text = "Tampilkan Nama"
         '
@@ -98,41 +98,41 @@ Partial Class Form2
         '
         'TxtNama
         '
-        Me.TxtNama.Location = New System.Drawing.Point(178, 56)
+        Me.TxtNama.Location = New System.Drawing.Point(188, 57)
         Me.TxtNama.Name = "TxtNama"
-        Me.TxtNama.Size = New System.Drawing.Size(203, 20)
+        Me.TxtNama.Size = New System.Drawing.Size(214, 20)
         Me.TxtNama.TabIndex = 6
         '
         'CmbKelas
         '
         Me.CmbKelas.FormattingEnabled = True
         Me.CmbKelas.Items.AddRange(New Object() {"XII IPA", "XII IPS"})
-        Me.CmbKelas.Location = New System.Drawing.Point(178, 89)
+        Me.CmbKelas.Location = New System.Drawing.Point(188, 89)
         Me.CmbKelas.Name = "CmbKelas"
-        Me.CmbKelas.Size = New System.Drawing.Size(203, 21)
+        Me.CmbKelas.Size = New System.Drawing.Size(214, 21)
         Me.CmbKelas.TabIndex = 7
         '
         'CmbJK
         '
         Me.CmbJK.FormattingEnabled = True
         Me.CmbJK.Items.AddRange(New Object() {"Laki-Laki", "Perempuan"})
-        Me.CmbJK.Location = New System.Drawing.Point(178, 123)
+        Me.CmbJK.Location = New System.Drawing.Point(188, 123)
         Me.CmbJK.Name = "CmbJK"
-        Me.CmbJK.Size = New System.Drawing.Size(203, 21)
+        Me.CmbJK.Size = New System.Drawing.Size(214, 21)
         Me.CmbJK.TabIndex = 8
         '
         'CmbMP
         '
         Me.CmbMP.FormattingEnabled = True
         Me.CmbMP.Items.AddRange(New Object() {"Matematika", "Bahasa Indonesia", "Bahasa Inggris", "Bahasa Korea", "Ekonomi", "Sastra Inggris", "Geografi", "Agama", "Peminatan Sejarah", "Sejarah Indonesia", "Penjaskes", "Sosiologi", "TIK", "Seni Budaya", "PKN", "Prakarya"})
-        Me.CmbMP.Location = New System.Drawing.Point(178, 153)
+        Me.CmbMP.Location = New System.Drawing.Point(188, 154)
         Me.CmbMP.Name = "CmbMP"
-        Me.CmbMP.Size = New System.Drawing.Size(203, 21)
+        Me.CmbMP.Size = New System.Drawing.Size(214, 21)
         Me.CmbMP.TabIndex = 9
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(14, 265)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(124, 45)
@@ -142,13 +142,14 @@ Partial Class Form2
         '
         'Button3
         '
+        Me.Button3.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.Button3.Font = New System.Drawing.Font("Modern No. 20", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(106, 198)
+        Me.Button3.Location = New System.Drawing.Point(119, 198)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(217, 43)
         Me.Button3.TabIndex = 11
         Me.Button3.Text = "Tampilkan"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.Button3.UseVisualStyleBackColor = False
         '
         'Form2
         '

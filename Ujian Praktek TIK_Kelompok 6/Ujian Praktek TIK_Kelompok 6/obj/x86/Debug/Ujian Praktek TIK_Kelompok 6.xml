@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UjianPraktekTIK_Kelompok6
+</name>
+</assembly>
+<members>
+<member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.App_Logo_Inspiraton_63">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.sitting_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.sitting_61">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources.Tik">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Ujian_Praktek_TIK_Kelompok_6.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

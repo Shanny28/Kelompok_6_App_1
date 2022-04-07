@@ -1,0 +1,12 @@
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\bin\Debug\Ujian Praktek TIK_Kelompok 6.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\bin\Debug\Ujian Praktek TIK_Kelompok 6.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\bin\Debug\Ujian Praktek TIK_Kelompok 6.xml
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian_Praktek_TIK_Kelompok_6.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian_Praktek_TIK_Kelompok_6.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.xml
+C:\Users\USER\AppData\Local\Temporary Projects\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.pdb
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Ujian Praktek TIK_Kelompok 6\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.exe
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Ujian Praktek TIK_Kelompok 6\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.xml
+D:\Tugas TIK_Kelompok 6\Kelompok_6_App_1\Ujian Praktek TIK_Kelompok 6\Ujian Praktek TIK_Kelompok 6\obj\x86\Debug\Ujian Praktek TIK_Kelompok 6.pdb

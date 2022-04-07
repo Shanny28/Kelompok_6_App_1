@@ -38,7 +38,7 @@ Partial Class Form2
         '
         'Button1
         '
-        Me.Button1.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(294, 265)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(143, 46)
@@ -132,7 +132,7 @@ Partial Class Form2
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(14, 265)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(124, 45)

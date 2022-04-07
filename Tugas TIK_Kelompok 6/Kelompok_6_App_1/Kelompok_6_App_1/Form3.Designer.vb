@@ -33,7 +33,7 @@ Partial Class Form3
         '
         Me.Button1.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.Button1.Font = New System.Drawing.Font("Modern No. 20", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(122, 188)
+        Me.Button1.Location = New System.Drawing.Point(126, 187)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(94, 39)
         Me.Button1.TabIndex = 0
@@ -56,7 +56,7 @@ Partial Class Form3
         '
         'Button2
         '
-        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button2.Location = New System.Drawing.Point(219, 252)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(120, 42)
@@ -66,7 +66,7 @@ Partial Class Form3
         '
         'Button3
         '
-        Me.Button3.Font = New System.Drawing.Font("Palatino Linotype", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Font = New System.Drawing.Font("Palatino Linotype", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button3.Location = New System.Drawing.Point(12, 255)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(101, 39)
